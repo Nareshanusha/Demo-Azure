@@ -1,0 +1,9 @@
+{
+	"name": "GitpracticeADF",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ea7a1333-9450-44aa-8758-645ce69ff833",
+		"tenantId": "6edb49c1-bf72-4eea-8b3f-a7fd0a25b68c"
+	}
+}
